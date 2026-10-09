@@ -1,8 +1,8 @@
-\# TP02-Gestion des utilisateurs, groupes et permissions Linux
+TP02-Gestion des utilisateurs, groupes et permissions Linux
 
 
 
-\## 1. Objectif
+1. Objectif
 
 
 
@@ -14,7 +14,7 @@ Ce TP simule un besoin courant en entreprise : permettre à plusieurs technicien
 
 
 
-\## 2. Environnement
+2. Environnement
 
 
 
