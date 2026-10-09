@@ -28,7 +28,7 @@ Ce TP simule un besoin courant en entreprise : permettre à plusieurs technicien
 
 
 
-\## 3. Création du groupe et de l'utilisateur
+\ 3. Création du groupe et de l'utilisateur
 
 
 
@@ -82,7 +82,7 @@ getent group techniciens
 
 
 
-\## 4. Création du dossier partagé
+\ 4. Création du dossier partagé
 
 
 
@@ -162,7 +162,7 @@ Lors des tests, l'utilisateur `yentest1` ne pouvait initialement pas accéder au
 
 
 
-\## 6. Commandes étudiées
+\6. Commandes étudiées
 
 
 
@@ -192,7 +192,7 @@ Lors des tests, l'utilisateur `yentest1` ne pouvait initialement pas accéder au
 
 
 
-\## 7. Compétences mises en pratique
+\ 7. Compétences mises en pratique
 
 
 
@@ -210,7 +210,7 @@ Lors des tests, l'utilisateur `yentest1` ne pouvait initialement pas accéder au
 
 
 
-\## 8. Captures de preuve
+\ 8. Captures de preuve
 
 
 
@@ -228,7 +228,7 @@ Les captures associées à ce TP sont stockées dans le dossier `captures/`.
 
 
 
-\## 9. Bilan
+\ 9. Bilan
 
 
 
