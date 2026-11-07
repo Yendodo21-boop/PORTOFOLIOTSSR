@@ -164,31 +164,18 @@ Lors des tests, l'utilisateur `yentest1` ne pouvait initialement pas accéder au
 
 6. Commandes étudiées
 
-
-
-| Commande       | Utilité                                                      |
-
-| -------------- | ------------------------------------------------------------ |
-
-| `groupadd`     | Créer un groupe                                              |
-
-| `useradd`      | Créer un utilisateur                                         |
-
-| `usermod -aG`  | Ajouter un utilisateur à un groupe secondaire                |
-
-| `id`           | Afficher les UID, GID et groupes                             |
-
-| `getent group` | Consulter les informations d'un groupe                       |
-
-| `mkdir`        | Créer un dossier                                             |
-
-| `chown`        | Modifier le propriétaire et le groupe                        |
-
-| `chmod`        | Modifier les permissions                                     |
-
-| `ls -l`        | Afficher les informations des fichiers et dossiers           |
-
-| `sudo -u`      | Exécuter une commande sous l'identité d'un autre utilisateur |
+| Commande | Utilité |
+| :--- | :--- |
+| `groupadd` | Créer un groupe |
+| `useradd` | Créer un utilisateur |
+| `usermod -aG` | Ajouter un utilisateur à un groupe secondaire |
+| `id` | Afficher les UID, GID et groupes |
+| `getent group` | Consulter les informations d'un groupe |
+| `mkdir` | Créer un dossier |
+| `chown` | Modifier le propriétaire et le groupe |
+| `chmod` | Modifier les permissions |
+| `ls -l` | Afficher les informations des fichiers et dossiers |
+| `sudo -u` | Exécuter une commande sous l'identité d'un autre utilisateur |
 
 
 
