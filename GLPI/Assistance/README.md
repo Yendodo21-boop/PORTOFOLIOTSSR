@@ -26,29 +26,29 @@ Description de l'utilisateur :
 
 « Bonjour, je n'arrive plus à ouvrir le dossier partagé de la comptabilité. J'en ai besoin pour terminer les factures avant midi. Hier, tout fonctionnait normalement. Merci de m'aider rapidement. »
 
-🎯 3. Objectifs Pédagogiques
+🎯 3. Objectifs
 
-À l'issue de l'analyse de ce ticket, le technicien doit être en mesure de :
+À l'issue de l'analyse de ce ticket, il faudra :
 
-[x] Identifier les informations manquantes indispensables avant de chercher une solution technique.
+- Identifier les informations manquantes indispensables avant de chercher une solution technique.
 
-[x] Formuler plusieurs hypothèses pertinentes en distinguant clairement les symptômes des causes profondes.
+- Formuler plusieurs hypothèses pertinentes en distinguant clairement les symptômes des causes profondes.
 
-[x] Prioriser les vérifications techniques dans un ordre logique (du plus simple/local au plus global).
+- Prioriser les vérifications techniques dans un ordre logique (du plus simple/local au plus global).
 
-[x] Évaluer la criticité de l'incident (matrice Impact / Urgence).
+- Évaluer la criticité de l'incident (matrice Impact / Urgence).
 
-[x] Rédiger une réponse de prise en charge claire, rassurante et professionnelle dans le suivi du ticket GLPI.
+- Rédiger une réponse de prise en charge claire, rassurante et professionnelle dans le suivi du ticket GLPI.
 
-📋 4. Grille d'Analyse Méthodologique (À compléter)
+📋 4. Grille d'Analyse Méthodologique
 
 4.1 Évaluation de la criticité (ITIL)
 
-Impact : (Ex. : Individuel ou collectif ? D'autres collègues de la comptabilité sont-ils touchés ?)
+Impact : Individuel ou collectif ? D'autres collègues de la comptabilité sont-ils touchés ?
 
-Urgence : (Ex. : Élevée — échéance métier critique fixée à 12 h 00 pour la facturation).
+Urgence : Élevée, échéance métier critique fixée à 12 h 00 pour la facturation
 
-Priorité résultante : (À définir selon la matrice Impact/Urgence).
+Priorité résultante : À définir selon la matrice Impact/Urgence.
 
 4.2 Informations manquantes à collecter auprès de l'utilisatrice
 
@@ -100,4 +100,4 @@ Afin d'orienter rapidement mon diagnostic, pourriez-vous me préciser :
 Je reste disponible par téléphone au [Numéro interne] ou je peux prendre la main à distance sur votre poste dès votre retour.
 
 Cordialement,
-[Prénom Nom] — Support Informatique N1
+Support Informatique N1
